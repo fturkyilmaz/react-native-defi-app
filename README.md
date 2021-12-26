@@ -32,6 +32,8 @@ Linkedin : https://www.linkedin.com/in/furkanturkyilmaz/
 
 Github: https://github.com/fturkyilmaz
 
+https://sahabt.com/tr-TR/?avia_forced_reroute=1
+
 
 React Native Ücretsiz Eğitim İçerikleri
 
