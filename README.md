@@ -1,8 +1,18 @@
-# React Native Defi dAPP Uygulaması
+# React Native Defi Decentralized Applications(dApps) Uygulaması
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
 
-Try running some of the following tasks:
+Bu proje, Ethereum network üzerinde DeFI(Decentralized Finance) dApps P2P (Peer-to-Peer) para transferi yapan bir app geliştirmesi yapmamızı sağlar. 
+
+Örnek bir akıllı sözleşme, bu sözleşme için bir test, bu sözleşmeyi dağıtan örnek bir komut dosyası ve yalnızca kullanılabilir hesapları listeleyen bir görev uygulaması örneği ile birlikte gelir.
+
+
+Aşağıdaki görevlerden bazılarını çalıştırmayı deneyin:
+
+- Uygulamada öncelikle hardhat kullanarak blockchain network komutla "npx hardhat node" oluşturmalısınız 
+
+- Uygulamayı kullandığınız platform iOS ise "yarn ios yada npm run ios" android ise  "yarn android yada npm run android" komutlarıyla çalıştırabilirsiniz.
+
+Hardhat için kullanabileceğiniz komutlar : 
 
 ```shell
 npx hardhat accounts
@@ -14,9 +24,19 @@ node scripts/sample-script.js
 npx hardhat help
 ```
 
+Benimle iletişime geçebilirsiniz:
+
+Mail : trkyilmazfurkan@gmail.com
+
+Linkedin : https://www.linkedin.com/in/furkanturkyilmaz/
+
+Github: https://github.com/fturkyilmaz
+
 
 React Native Ücretsiz Eğitim İçerikleri
 
 https://www.youtube.com/playlist?list=PLT_pHf0diFdMX1AgnNOUqRkO9FvloedXG
 
 https://www.youtube.com/playlist?list=PLT_pHf0diFdMvewldSeN-dD-L9YVq1xbm
+
+Furkan Türkyılmaz
