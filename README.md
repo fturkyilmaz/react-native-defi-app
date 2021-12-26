@@ -6,7 +6,7 @@ Bu proje, Ethereum network üzerinde DeFI(Decentralized Finance) dApps P2P (Peer
 Örnek bir akıllı sözleşme, bu sözleşme için bir test, bu sözleşmeyi dağıtan örnek bir komut dosyası ve yalnızca kullanılabilir hesapları listeleyen bir görev uygulaması örneği ile birlikte gelir.
 
 
-Aşağıdaki görevlerden bazılarını çalıştırmayı deneyin:
+Aşağıdaki yönergelerle uygulamayı çalıştırmayı deneyin:
 
 - Uygulamada öncelikle hardhat kullanarak blockchain network komutla "npx hardhat node" oluşturmalısınız 
 
