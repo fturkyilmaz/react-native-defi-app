@@ -1,5 +1,8 @@
 # React Native Defi Decentralized Applications(dApps) Uygulaması
 
+<p align="center">
+  <img src="https://moralis.io/wp-content/uploads/2021/07/21_07_ETH_dApps.jpg" height="400" width="100%" title="hover text">
+</p>
 
 Bu proje, Ethereum network üzerinde DeFI(Decentralized Finance) dApps P2P (Peer-to-Peer) para transferi yapan bir app geliştirmesi yapmamızı sağlar. 
 
